@@ -1,7 +1,7 @@
 
 /* Trama 23 Studio — comportamiento del portafolio. Generado por build.py */
 // Clave de Web3Forms (web3forms.com). Pega aquí la que te llegue por correo:
-const CLAVE_FORMULARIO='PEGA-AQUI-TU-CLAVE';
+const CLAVE_FORMULARIO='4a7153c3-f429-4c5e-b118-f8811c301554';
  
 (function(){
   const raiz=document.documentElement;
